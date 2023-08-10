@@ -4,8 +4,8 @@ O objetivo é estabelecer a infraestrutura de servidores para a empresa "Fast En
 
 ### Arquitetura:
 <div align= "center">
-<img src=["https://github.com/PedroTxfl/Projeto_final_PB_CompassUOL/issues/1#issue-1845653082"](https://github.com/PedroTxfl/Projeto_final_PB_CompassUOL/issues/1#issue-1845653082) />
-</div>div>
+<img src="https://user-images.githubusercontent.com/127341401/259829520-4e1a5c27-b343-4477-9435-bbef8ef08d17.png" />
+</div>
 - Ambiente Kubernetes (EKS):
    - Aproveitar o serviço Amazon Elastic Kubernetes Service (Amazon EKS) para coordenar e administrar os contêineres da aplicação em um ambiente com alta disponibilidade e escalabilidade.
 
