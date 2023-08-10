@@ -3,7 +3,7 @@
 O objetivo é estabelecer a infraestrutura de servidores para a empresa "Fast Engineering S/A" na plataforma AWS, seguindo as práticas DevOps recomendadas, a fim de assegurar alta disponibilidade, escalabilidade e segurança.
 
 ### Arquitetura:
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://user-images.githubusercontent.com/111077008/259832025-e420547a-aef0-4013-b0ca-49b1f03df1da.png)" width="200" />
+ <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://user-images.githubusercontent.com/111077008/259832025-e420547a-aef0-4013-b0ca-49b1f03df1da.png)" width="200" />
 - Ambiente Kubernetes (EKS):
    - Aproveitar o serviço Amazon Elastic Kubernetes Service (Amazon EKS) para coordenar e administrar os contêineres da aplicação em um ambiente com alta disponibilidade e escalabilidade.
 
