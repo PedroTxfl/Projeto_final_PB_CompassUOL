@@ -25,3 +25,8 @@ O objetivo é estabelecer a infraestrutura de servidores para a empresa "Fast En
 
 ### Valores:
 A estimativa mensal para os custos dessa configuração é de aproximadamente 755.00 USD, e o custo anual é projetado em 9,070.00 USD (lembrando que os valores podem variar conforme a carga e a demanda).
+
+### Cronograma de macro-integras:
+- Prova de conceito (POC): A POC servirá para validar a arquitetura criada, expondo possíveis falhas e indicando possíveis mudanças antes de criarmos o MVP. Para a prova de conceito será necessário 3 dias e meio.
+- Mínimo produto viável (MVP): Na MVP, teremos apenas os recursos mínimos, com suas funcionalidades básicas, sendo assim - uma versão enxuta do Produto final. Para a criação do Mínimo produto viável será necessário 3 dias e meio.
+- Produto final: O produto final será a implementação da arquitetura apresentada. Para construir a arquitetura apresentada, será necessário aproximadamente uma semana.
