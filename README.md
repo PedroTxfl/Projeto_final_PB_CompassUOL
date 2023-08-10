@@ -11,7 +11,7 @@ O objetivo é estabelecer a infraestrutura de servidores para a empresa "Fast En
    - Aproveitar o serviço Amazon Elastic Kubernetes Service (Amazon EKS) para coordenar e administrar os contêineres da aplicação em um ambiente com alta disponibilidade e escalabilidade.
 
 - Banco de dados PaaS:
-   - Empregar o serviço Amazon Relational Database Service (Amazon RDS) para alojar o banco de dados MySQL. O RDS oferece gestão automatizada, expansibilidade e backups automáticos.
+   - Empregar o serviço Amazon Relational Database Service (Amazon RDS) para colocar o banco de dados MySQL. O RDS oferece gestão automatizada, expansibilidade e backups automáticos.
 
 - MultiAZ:
    - Estabelecer o RDS com alta disponibilidade MultiAZ, assegurando que réplicas do banco de dados sejam configuradas em diferentes zonas de disponibilidade para aumentar a resiliência a falhas.
