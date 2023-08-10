@@ -4,7 +4,7 @@ O objetivo é estabelecer a infraestrutura de servidores para a empresa "Fast En
 
 ### Arquitetura:
 <div align= "center">
-<img src="https://user-images.githubusercontent.com/127341401/259829520-4e1a5c27-b343-4477-9435-bbef8ef08d17.png" width= "800px"/>
+<img src="https://user-images.githubusercontent.com/127341401/259829520-4e1a5c27-b343-4477-9435-bbef8ef08d17.png" width= "600px"/>
 </div>
 
 - Ambiente Kubernetes (EKS):
